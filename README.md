@@ -103,7 +103,3 @@ This project is under active development! 🛠️
 Private repository for personal development and future public release.  
 Şimdilik özel repo, geliştirme tamamlandığında açık kaynak yapılabilir!
 
----
-
-### Made with love ❤️ by Muhammed and Co-Pilot ChatGPT
-
